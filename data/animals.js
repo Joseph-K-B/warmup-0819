@@ -1,14 +1,14 @@
 module.exports = [
   {
-    name: 'bessie',
+    name: 'Izzie',
     cool_factor: 3,
   },
   {
-    name: 'jumpy',
+    name: 'Captain',
     cool_factor: 4,
   },
   {
-    name: 'spot',
+    name: 'Elanor',
     cool_factor: 10,
   }
 ];
